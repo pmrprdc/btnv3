@@ -11,11 +11,10 @@ const AppDiv = styled.div`
   background-color: #007bff;
   color: white;
   font-size: 1rem;
-  padding: 0.375rem 0.75rem;
   border: 1px solid #007bff;
   border-radius: 0.25rem;
   cursor: pointer;
-  transition: background-color 0.15s ease-in-out;
+  transition: background-color 1s ease-in-out;
   text-align: center;
   &:hover {
     background-color: darkblue;
