@@ -7,7 +7,6 @@ function Footer() {
     padding: '10px',
     textAlign: 'center',
     fontSize: '1rem',
-    position: 'fixed',
     bottom: '0',
     width: '100%',
     paddingBottom: '100px'

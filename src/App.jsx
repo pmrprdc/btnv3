@@ -8,7 +8,10 @@ import Footer from './components/Footer'
 
 
 const AppDiv = styled.div`
+  width: 50%;
+  height: 100%;
   background-color: #007bff;
+  margin: 0 auto;
   color: white;
   font-size: 1rem;
   border: 1px solid #007bff;
