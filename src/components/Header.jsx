@@ -12,6 +12,13 @@ function Header() {
   return (
     <div style={headerStyle}>
       <h1>buildthisnext</h1>
+      <p>Ever found yourself thinking X business should exist but you didn't do anything about it? </p>
+      <p>Build this next is the reddit of new business ideas</p>
+      <p>BENEFITS</p>
+      <p>FOUNDERS AND DEVELOPERS can come here for ideas</p>
+      <p>Everyone can come here to share business ideas</p>
+      <p>Build this next is where you can throw random business ideas and follow up with the builders</p>
+      <p>Build this next is your startup idea vault</p>
     </div>
   );
 }
