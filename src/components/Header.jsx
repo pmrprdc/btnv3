@@ -19,6 +19,7 @@ function Header() {
       <p>Everyone can come here to share business ideas</p>
       <p>Build this next is where you can throw random business ideas and follow up with the builders</p>
       <p>Build this next is your startup idea vault</p>
+      <h4> Just add your business ideas here when you have one and receive feedback from other founders</h4>
     </div>
   );
 }
