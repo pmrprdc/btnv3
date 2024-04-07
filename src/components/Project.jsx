@@ -26,7 +26,7 @@ function ProjectsList({ projects }) {
           cursor: 'pointer',
           margin: '5px',
           textDecoration: 'none', // Remove underline from links
-          background: isHovered ? 'lightgray' : 'transparent',
+          background: isHovered ? 'black' : 'transparent',
           display: 'inline-block', // Necessary for applying padding and margins correctly
           transition: 'background-color 0.3s', // Smooth transition for background color
         };
